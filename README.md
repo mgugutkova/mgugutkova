@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgugutkova
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning Foundamentals C#
+- 🌱 I’m currently learning Entity Framework
 
 
 <!---
